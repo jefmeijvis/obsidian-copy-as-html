@@ -1,7 +1,7 @@
 {
 	"id": "copy-note-as-html",
 	"name": "Copy note as HTML",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Copy your current note as HTML to the clipboard. This way you can easily paste it in an email and keep the markup.",
 	"author": "Jef Meijvis",
